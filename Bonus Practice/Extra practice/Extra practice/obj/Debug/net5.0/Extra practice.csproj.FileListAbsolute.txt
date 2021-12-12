@@ -1,0 +1,16 @@
+C:\Users\jarom\OneDrive\Desktop\DeskRepo\Baby Projects\Loopy\Bonus Practice\Extra practice\Extra practice\bin\Debug\net5.0\Extra practice.exe
+C:\Users\jarom\OneDrive\Desktop\DeskRepo\Baby Projects\Loopy\Bonus Practice\Extra practice\Extra practice\bin\Debug\net5.0\Extra practice.deps.json
+C:\Users\jarom\OneDrive\Desktop\DeskRepo\Baby Projects\Loopy\Bonus Practice\Extra practice\Extra practice\bin\Debug\net5.0\Extra practice.runtimeconfig.json
+C:\Users\jarom\OneDrive\Desktop\DeskRepo\Baby Projects\Loopy\Bonus Practice\Extra practice\Extra practice\bin\Debug\net5.0\Extra practice.runtimeconfig.dev.json
+C:\Users\jarom\OneDrive\Desktop\DeskRepo\Baby Projects\Loopy\Bonus Practice\Extra practice\Extra practice\bin\Debug\net5.0\Extra practice.dll
+C:\Users\jarom\OneDrive\Desktop\DeskRepo\Baby Projects\Loopy\Bonus Practice\Extra practice\Extra practice\bin\Debug\net5.0\ref\Extra practice.dll
+C:\Users\jarom\OneDrive\Desktop\DeskRepo\Baby Projects\Loopy\Bonus Practice\Extra practice\Extra practice\bin\Debug\net5.0\Extra practice.pdb
+C:\Users\jarom\OneDrive\Desktop\DeskRepo\Baby Projects\Loopy\Bonus Practice\Extra practice\Extra practice\obj\Debug\net5.0\Extra practice.csproj.AssemblyReference.cache
+C:\Users\jarom\OneDrive\Desktop\DeskRepo\Baby Projects\Loopy\Bonus Practice\Extra practice\Extra practice\obj\Debug\net5.0\Extra practice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jarom\OneDrive\Desktop\DeskRepo\Baby Projects\Loopy\Bonus Practice\Extra practice\Extra practice\obj\Debug\net5.0\Extra practice.AssemblyInfoInputs.cache
+C:\Users\jarom\OneDrive\Desktop\DeskRepo\Baby Projects\Loopy\Bonus Practice\Extra practice\Extra practice\obj\Debug\net5.0\Extra practice.AssemblyInfo.cs
+C:\Users\jarom\OneDrive\Desktop\DeskRepo\Baby Projects\Loopy\Bonus Practice\Extra practice\Extra practice\obj\Debug\net5.0\Extra practice.csproj.CoreCompileInputs.cache
+C:\Users\jarom\OneDrive\Desktop\DeskRepo\Baby Projects\Loopy\Bonus Practice\Extra practice\Extra practice\obj\Debug\net5.0\Extra practice.dll
+C:\Users\jarom\OneDrive\Desktop\DeskRepo\Baby Projects\Loopy\Bonus Practice\Extra practice\Extra practice\obj\Debug\net5.0\ref\Extra practice.dll
+C:\Users\jarom\OneDrive\Desktop\DeskRepo\Baby Projects\Loopy\Bonus Practice\Extra practice\Extra practice\obj\Debug\net5.0\Extra practice.pdb
+C:\Users\jarom\OneDrive\Desktop\DeskRepo\Baby Projects\Loopy\Bonus Practice\Extra practice\Extra practice\obj\Debug\net5.0\Extra practice.genruntimeconfig.cache
